@@ -7,7 +7,7 @@
 <br/>
 
 ![Cristian GitHub stats](https://github-readme-stats.vercel.app/api?username=cristiansalles&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cristiansalles&layout=compact&langs_count=7&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cristiansalles&langs_count=8&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ##  Tecnologias que estou trabalhando!
 
